@@ -1,59 +1,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="iHOT频道",CHC高清电影
-http://36.49.51.252:30007/rtp/239.37.0.187:5540$1920x1080
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="iHOT频道",CHC高清电影
-http://119.166.159.120:6666/rtp/239.253.254.154:8000$1920x1080
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="iHOT频道",CHC家庭影院
-http://36.49.51.252:30007/rtp/239.37.0.188:5540$1920x1080
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="iHOT频道",CHC家庭影院
-http://119.166.159.120:6666/rtp/239.253.254.152:8000$1920x1080
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="iHOT频道",CHC动作电影
-http://36.49.51.252:30007/rtp/239.37.0.186:5540$1920x1080
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="iHOT频道",CHC动作电影
-http://119.166.159.120:6666/rtp/239.253.254.153:8000$1920x1080
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
-http://36.49.51.252:30007/rtp/239.37.0.060:5540$1920x1080
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
-http://119.166.159.120:6666/rtp/239.253.254.66:8000$1920x1080
-#EXTINF:-1 tvg-name="陕XA新闻资讯" tvg-logo="https://live.fanmingming.com/tv/陕XA新闻资讯.png" group-title="陕西频道",陕XA新闻资讯
-http://36.46.98.55:8010/rtp/239.111.205.28:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XA都市青春" tvg-logo="https://live.fanmingming.com/tv/陕XA都市青春.png" group-title="陕西频道",陕XA都市青春
-http://36.46.98.55:8010/rtp/239.111.205.42:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XA体育休闲" tvg-logo="https://live.fanmingming.com/tv/陕XA体育休闲.png" group-title="陕西频道",陕XA体育休闲
-http://36.46.98.55:8010/rtp/239.111.205.36:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XB农林" tvg-logo="https://live.fanmingming.com/tv/陕XB农林.png" group-title="陕西频道",陕XB农林
-http://36.46.98.55:8010/rtp/239.112.205.27:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XB生活" tvg-logo="https://live.fanmingming.com/tv/陕XB生活.png" group-title="陕西频道",陕XB生活
-http://36.46.98.55:8010/rtp/239.112.205.20:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XB影视" tvg-logo="https://live.fanmingming.com/tv/陕XB影视.png" group-title="陕西频道",陕XB影视
-http://36.46.98.55:8010/rtp/239.112.205.21:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XB公共" tvg-logo="https://live.fanmingming.com/tv/陕XB公共.png" group-title="陕西频道",陕XB公共
-http://36.46.98.55:8010/rtp/239.112.205.22:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XC西部电影" tvg-logo="https://live.fanmingming.com/tv/陕XC西部电影.png" group-title="陕西频道",陕XC西部电影
-http://36.46.98.55:8010/rtp/239.111.205.41:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XC新闻综合" tvg-logo="https://live.fanmingming.com/tv/陕XC新闻综合.png" group-title="陕西频道",陕XC新闻综合
-http://36.46.98.55:8010/rtp/239.111.205.242:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XC都市频道" tvg-logo="https://live.fanmingming.com/tv/陕XC都市频道.png" group-title="陕西频道",陕XC都市频道
-http://36.46.98.55:8010/rtp/239.111.205.243:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XC商务资讯" tvg-logo="https://live.fanmingming.com/tv/陕XC商务资讯.png" group-title="陕西频道",陕XC商务资讯
-http://36.46.98.55:8010/rtp/239.112.205.174:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XC影视频道" tvg-logo="https://live.fanmingming.com/tv/陕XC影视频道.png" group-title="陕西频道",陕XC影视频道
-http://36.46.98.55:8010/rtp/239.112.205.175:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XC丝路频道" tvg-logo="https://live.fanmingming.com/tv/陕XC丝路频道.png" group-title="陕西频道",陕XC丝路频道
-http://36.46.98.55:8010/rtp/239.112.205.176:5140$1920x1080
-#EXTINF:-1 tvg-name="陕XC西安教育" tvg-logo="https://live.fanmingming.com/tv/陕XC西安教育.png" group-title="陕西频道",陕XC西安教育
-http://36.46.98.55:8010/rtp/239.112.205.142:5140$1920x1080
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
-http://123.181.150.17:7000/rtp/239.254.200.68:8108$720x576
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
 http://61.136.67.238:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8$IPv6
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
 http://[2409:8087:74f0:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035$IPv6
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
-http://36.49.51.252:30007/rtp/239.37.0.063:5540$1920x1080
+http://221.0.78.198:1681/hls/10241/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
-http://119.166.159.120:6666/rtp/239.253.254.196:8000$1920x1080
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8$IPv6
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川频道",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
