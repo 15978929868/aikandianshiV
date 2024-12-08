@@ -1,3 +1,9 @@
-Name: 云南卫视, URL: http://61.136.67.238:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 372 ms
-Name: 云南卫视, URL: http://221.0.78.198:1681/hls/10241/index.m3u8, Date: None, Resolution: None, Response Time: 452 ms
-Name: 四川科教, URL: http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8, Date: None, Resolution: None, Response Time: 571 ms
+Name: 云南卫视, URL: http://61.136.67.238:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 562 ms
+Name: 云南卫视, URL: http://221.0.78.198:1681/hls/10241/index.m3u8, Date: None, Resolution: None, Response Time: 607 ms
+Name: 四川科教, URL: http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8, Date: None, Resolution: None, Response Time: 796 ms
+Name: 江XA二套, URL: http://220.176.218.175:8888/rtp/239.252.220.238:5140$1920x1080, Date: 2024-09-30, Resolution: 1920x1080, Response Time: 74 ms
+Name: 江XA三套, URL: http://220.176.218.175:8888/rtp/239.252.219.173:5140$1920x1080, Date: 2024-09-30, Resolution: 1920x1080, Response Time: 74 ms
+Name: 江XA五套, URL: http://220.176.218.175:8888/rtp/239.252.220.102:5140$1920x1080, Date: 2024-09-30, Resolution: 1920x1080, Response Time: 74 ms
+Name: 江XA六套, URL: http://220.176.218.175:8888/rtp/239.252.219.113:5140$1920x1080, Date: 2024-09-30, Resolution: 1920x1080, Response Time: 74 ms
+Name: 江XA七套, URL: http://220.176.218.175:8888/rtp/239.252.220.100:5140$1920x1080, Date: 2024-09-30, Resolution: 1920x1080, Response Time: 74 ms
+Name: 江XA教育, URL: http://220.176.218.175:8888/rtp/239.252.219.115:5140$1920x1080, Date: 2024-09-30, Resolution: 1920x1080, Response Time: 74 ms
