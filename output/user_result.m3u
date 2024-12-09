@@ -5,15 +5,3 @@ http://61.136.67.238:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=
 http://221.0.78.198:1681/hls/10241/index.m3u8
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川频道",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 tvg-name="江XA二套" tvg-logo="https://live.fanmingming.com/tv/江XA二套.png" group-title="江西频道",江XA二套
-http://220.176.218.175:8888/rtp/239.252.220.238:5140$1920x1080
-#EXTINF:-1 tvg-name="江XA三套" tvg-logo="https://live.fanmingming.com/tv/江XA三套.png" group-title="江西频道",江XA三套
-http://220.176.218.175:8888/rtp/239.252.219.173:5140$1920x1080
-#EXTINF:-1 tvg-name="江XA五套" tvg-logo="https://live.fanmingming.com/tv/江XA五套.png" group-title="江西频道",江XA五套
-http://220.176.218.175:8888/rtp/239.252.220.102:5140$1920x1080
-#EXTINF:-1 tvg-name="江XA六套" tvg-logo="https://live.fanmingming.com/tv/江XA六套.png" group-title="江西频道",江XA六套
-http://220.176.218.175:8888/rtp/239.252.219.113:5140$1920x1080
-#EXTINF:-1 tvg-name="江XA七套" tvg-logo="https://live.fanmingming.com/tv/江XA七套.png" group-title="江西频道",江XA七套
-http://220.176.218.175:8888/rtp/239.252.220.100:5140$1920x1080
-#EXTINF:-1 tvg-name="江XA教育" tvg-logo="https://live.fanmingming.com/tv/江XA教育.png" group-title="江西频道",江XA教育
-http://220.176.218.175:8888/rtp/239.252.219.115:5140$1920x1080
