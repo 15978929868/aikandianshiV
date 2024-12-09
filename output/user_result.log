@@ -1,3 +1,13 @@
-Name: 云南卫视, URL: http://61.136.67.238:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 528 ms
-Name: 云南卫视, URL: http://221.0.78.198:1681/hls/10241/index.m3u8, Date: None, Resolution: None, Response Time: 624 ms
-Name: 四川科教, URL: http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8, Date: None, Resolution: None, Response Time: 776 ms
+Name: 重QB睛彩, URL: http://ly123.fun:10000/rtp/235.254.196.218:1146$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 云南卫视, URL: http://61.136.67.238:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 361 ms
+Name: 云南卫视, URL: http://221.0.78.198:1681/hls/10241/index.m3u8, Date: None, Resolution: None, Response Time: 430 ms
+Name: 四川科教, URL: http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8, Date: None, Resolution: None, Response Time: 545 ms
+Name: 重QC新闻频道, URL: http://ly123.fun:10000/rtp/235.254.196.199:7980$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QD影视频道, URL: http://ly123.fun:10000/rtp/235.254.198.180:7980$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QE都市频道, URL: http://ly123.fun:10000/rtp/235.254.198.181:7980$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QF时尚生活, URL: http://ly123.fun:10000/rtp/235.254.198.182:7980$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QG娱乐频道, URL: http://ly123.fun:10000/rtp/235.254.198.187:7980$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QH新农村, URL: http://ly123.fun:10000/rtp/235.254.198.186:7980$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QI社会与法, URL: http://ly123.fun:10000/rtp/235.254.196.210:1112$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QK科教频道, URL: http://ly123.fun:10000/rtp/235.254.196.215:1132$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms
+Name: 重QL汽摩频道, URL: http://ly123.fun:10000/rtp/235.254.196.221:1156$1920x1080, Date: 2024-06-21, Resolution: 1920x1080, Response Time: 1 ms

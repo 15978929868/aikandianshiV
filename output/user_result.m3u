@@ -1,4 +1,24 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="重QB睛彩" tvg-logo="https://live.fanmingming.com/tv/重QB睛彩.png" group-title="重庆频道",重QB睛彩
+http://ly123.fun:10000/rtp/235.254.196.218:1146$1920x1080
+#EXTINF:-1 tvg-name="重QC新闻频道" tvg-logo="https://live.fanmingming.com/tv/重QC新闻频道.png" group-title="重庆频道",重QC新闻频道
+http://ly123.fun:10000/rtp/235.254.196.199:7980$1920x1080
+#EXTINF:-1 tvg-name="重QD影视频道" tvg-logo="https://live.fanmingming.com/tv/重QD影视频道.png" group-title="重庆频道",重QD影视频道
+http://ly123.fun:10000/rtp/235.254.198.180:7980$1920x1080
+#EXTINF:-1 tvg-name="重QE都市频道" tvg-logo="https://live.fanmingming.com/tv/重QE都市频道.png" group-title="重庆频道",重QE都市频道
+http://ly123.fun:10000/rtp/235.254.198.181:7980$1920x1080
+#EXTINF:-1 tvg-name="重QF时尚生活" tvg-logo="https://live.fanmingming.com/tv/重QF时尚生活.png" group-title="重庆频道",重QF时尚生活
+http://ly123.fun:10000/rtp/235.254.198.182:7980$1920x1080
+#EXTINF:-1 tvg-name="重QG娱乐频道" tvg-logo="https://live.fanmingming.com/tv/重QG娱乐频道.png" group-title="重庆频道",重QG娱乐频道
+http://ly123.fun:10000/rtp/235.254.198.187:7980$1920x1080
+#EXTINF:-1 tvg-name="重QH新农村" tvg-logo="https://live.fanmingming.com/tv/重QH新农村.png" group-title="重庆频道",重QH新农村
+http://ly123.fun:10000/rtp/235.254.198.186:7980$1920x1080
+#EXTINF:-1 tvg-name="重QI社会与法" tvg-logo="https://live.fanmingming.com/tv/重QI社会与法.png" group-title="重庆频道",重QI社会与法
+http://ly123.fun:10000/rtp/235.254.196.210:1112$1920x1080
+#EXTINF:-1 tvg-name="重QK科教频道" tvg-logo="https://live.fanmingming.com/tv/重QK科教频道.png" group-title="重庆频道",重QK科教频道
+http://ly123.fun:10000/rtp/235.254.196.215:1132$1920x1080
+#EXTINF:-1 tvg-name="重QL汽摩频道" tvg-logo="https://live.fanmingming.com/tv/重QL汽摩频道.png" group-title="重庆频道",重QL汽摩频道
+http://ly123.fun:10000/rtp/235.254.196.221:1156$1920x1080
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
 http://61.136.67.238:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="云南频道",云南卫视
